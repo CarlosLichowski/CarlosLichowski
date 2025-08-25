@@ -62,25 +62,7 @@ Full-Stack Web Developer | React & Node.js.
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### Featured Projects
-Productivity WebApp: A full-stack CRUD application developed with React and Node.js.
 
-Reiki Services Website: A responsive informational page.
-
-Restaurant Landing Page: An optimized design using React and CSS.
-
-Personal Portfolio: A showcase of my projects and professional profile.
-
-
-
-### Methodologies: Agile methodologies, Scrum.
-
-### Soft Skills (Transferable Skills)
-Precision in the use of technological equipment and standardized procedures.
-
-Technical problem-solving and data management.
-
-Multidisciplinary teamwork.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -111,3 +93,23 @@ LinkedIn: [[[You can insert your LinkedIn profile link here]](https://www.linked
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+### Featured Projects
+Productivity WebApp: A full-stack CRUD application developed with React and Node.js.
+
+Reiki Services Website: A responsive informational page.
+
+Restaurant Landing Page: An optimized design using React and CSS.
+
+Personal Portfolio: A showcase of my projects and professional profile.
+
+
+
+### Methodologies: Agile methodologies, Scrum.
+
+### Soft Skills (Transferable Skills)
+Precision in the use of technological equipment and standardized procedures.
+
+Technical problem-solving and data management.
+
+Multidisciplinary teamwork.
