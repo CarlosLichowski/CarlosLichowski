@@ -9,7 +9,6 @@ Full-Stack Web Developer | React & Node.js.
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
 
 - 🧑‍🎓 Full-Stack Web Developer | React & Node.js. | Python**
 
@@ -17,7 +16,6 @@ Full-Stack Web Developer | React & Node.js.
 
 - 📫 Contact me: carlosjlicho@gmail.com.
   
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
