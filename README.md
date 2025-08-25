@@ -2,7 +2,7 @@ Hello! I'm Carlos J. Lichowski
 
 Full-Stack Web Developer | React & Node.js.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
+
 
 
 <table align="center">
@@ -27,14 +27,9 @@ Full-Stack Web Developer | React & Node.js.
 </tr>
 </table>
 
-Featured Projects
-Productivity WebApp: A full-stack CRUD application developed with React and Node.js.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-Reiki Services Website: A responsive informational page.
 
-Restaurant Landing Page: An optimized design using React and CSS.
-
-Personal Portfolio: A showcase of my projects and professional profile.
 
 
 
@@ -67,9 +62,20 @@ Personal Portfolio: A showcase of my projects and professional profile.
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-Methodologies: Agile methodologies, Scrum.
+### Featured Projects
+Productivity WebApp: A full-stack CRUD application developed with React and Node.js.
 
-Soft Skills (Transferable Skills)
+Reiki Services Website: A responsive informational page.
+
+Restaurant Landing Page: An optimized design using React and CSS.
+
+Personal Portfolio: A showcase of my projects and professional profile.
+
+
+
+### Methodologies: Agile methodologies, Scrum.
+
+### Soft Skills (Transferable Skills)
 Precision in the use of technological equipment and standardized procedures.
 
 Technical problem-solving and data management.
