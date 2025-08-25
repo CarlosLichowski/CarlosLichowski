@@ -1,4 +1,5 @@
 Hello! I'm Carlos J. Lichowski
+
 Full-Stack Web Developer | React & Node.js.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
@@ -96,4 +97,13 @@ Multidisciplinary teamwork.
 
 
 
-LinkedIn: [You can insert your LinkedIn profile link here]
+LinkedIn: [[[You can insert your LinkedIn profile link here]](https://www.linkedin.com/in/carlos-lichowski)](https://www.linkedin.com/in/carlos-lichowski)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
