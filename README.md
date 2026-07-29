@@ -87,13 +87,13 @@ Full-Stack Web Developer | React & Node.js.
 
 
 ### Featured Projects
-Productivity WebApp: A full-stack CRUD application developed with React and Node.js.
 
-Reiki Services Website: A responsive informational page.
-
-Restaurant Landing Page: An optimized design using React and CSS.
-
-Personal Portfolio: A showcase of my projects and professional profile.
+- **labRamos:** A specialized WebApp designed for clinical laboratory management. Centralizes critical information such as kit inserts, staff training/atheneums, vacation scheduling, and shift handovers (pase de turno).
+- **Productivity Tracking WebApp (In Progress):** A robust dashboard tracking personal progress across routines, studying, and fitness. Features an attractive visual checklist system for daily, monthly, and annual goals.
+- **Productivity WebApp (CRUD):** A full-stack CRUD application developed with React and Node.js.
+- **Reiki Services Website:** A responsive informational page.
+- **Restaurant Landing Page:** An optimized design using React and CSS.
+- **Personal Portfolio:** A showcase of my projects and professional profile.
 
 
 
