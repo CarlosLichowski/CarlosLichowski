@@ -47,7 +47,7 @@ Full-Stack Web Developer | React & Node.js.
 ### 🗃 &nbsp;Databases
 
 
-![Firebase](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
